@@ -90,7 +90,7 @@ h1{
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    
+    margin: 100px;
 }
 .nav-item{
     border-style: solid;
@@ -103,5 +103,10 @@ h1{
     height: 50px;  
     box-shadow: 5px 5px 15px rgb(0,0,0,0.5);
      
+}
+.top{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    margin: 50px;
 }
  
