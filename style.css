@@ -126,9 +126,9 @@ h1{
     grid-column-gap: 20px;
     
     width: 1110px;
-    margin: 2px auto;
-    box-shadow: 5px 5px 15px rgb(0,0,0,0.5);
-   
+    margin: 0px auto;
+    box-shadow: 5px 5px 25px aqua;
+   background-color: whitesmoke;
 }
 .destaque{
     grid-row-start: 3;
@@ -147,4 +147,6 @@ h1{
     border-style: solid;
     border-color: coral;
 }
- 
+body{
+    background-image: url("/imagem/espaco.jpg");
+} 
