@@ -7,8 +7,7 @@ footer  .col-lg-12{
    padding: 0 20px;
    color: white;
    text-decoration: none;
-   font-size: 30px;  
-    
+   font-size: 30px;    
 }
 footer{
    color:white;
@@ -48,24 +47,6 @@ h1{
     max-width: 100%;
     height: auto;
     
-}
-
-#carouselExampleindicators,#carouselExampleCaptions{
-    color: black;
-    height: 210px;
-    
-    
-}
-#carouselExampleindicators .carousel-indicators li{
-    background-color: rgba(220, 20, 60, 0.3);
-    
-}
-#carouselExampleindicators .carousel-indicators .active{
-    background-color: crimson;
-  }
-.carousel-control-next-icon,
-.carousel-control-prev-icon{
-    background-color: crimson;
 }
 .carousel-caption{
     color: black;
