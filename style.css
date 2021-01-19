@@ -33,15 +33,7 @@ footer{
 p{
       color: gray;
   }
-.formato{
-    display: flex;
-    justify-content: center;
-    position: absolute;
-    margin-top: -80px;
-    width: 100%;
-      
-      
-}
+
 .cor-principal{
     color:crimson;
 }
@@ -89,8 +81,8 @@ h1{
 .tema{
     border-style: solid;
     border-color: coral;
-    height: 406px;
-    width: 500px;
+    height: 506px;
+    width: 1000px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -130,16 +122,49 @@ h1{
     box-shadow: 5px 5px 25px aqua;
    background-color: whitesmoke;
 }
+ 
 .destaque{
     grid-row-start: 3;
     grid-row-end: 2;
     grid-column-start: 1;
-    grid-column-end: 3;
+    grid-column-end: 2;
     margin-left: 50px;
 }
 .aka{
     grid-row-start: 3;
     grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-color: coral;
+  
+}
+.JUJUTSU{
+    grid-row-start: 4;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-color: coral;
+     
+}
+.Fairy{
+    grid-row-start: 5;
+    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-color: coral;
+}
+.Rising{
+    grid-row-start: 6;
+    grid-row-end: 6;
     grid-column-start: 1;
     grid-column-end: 3;
     margin-left: 50px;
