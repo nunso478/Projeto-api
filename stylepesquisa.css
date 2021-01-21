@@ -94,20 +94,7 @@ footer  .col-lg-12{
        width: 20%;
        font:  arial;
 }
-.container1{
-    display: grid;
-    grid-template-rows: repeat(1,1fr);
-    grid-template-columns: 50% 2fr 1fr 1fr;
 
-    grid-gap: 20px;
-    grid-row-gap: 20px;
-    grid-column-gap: 20px;
-    
-    width: 1110px;
-    margin: 0px auto;
-    box-shadow: 5px 5px 25px aqua;
-   background-color: whitesmoke;
-}
 .Fairy{
   
     margin-left: 50px;
