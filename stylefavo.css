@@ -47,7 +47,7 @@ body{
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    box-shadow: 5px 5px 15px rgb(0,0,0,0.5);
+    box-shadow: 5px 5px 15px blue;
      width: 910px;
 }
 .lovewar{
@@ -56,12 +56,12 @@ body{
     margin-bottom: 50px;
     border: 9px solid transparent;
     border-style: solid;
-    border-top-color:blue;
+    border-top-color:red;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    box-shadow: 5px 5px 15px rgb(0,0,0,0.5);
+    box-shadow: 5px 5px 15px  red;
     width: 910px;
 }
 .ataque{
@@ -70,12 +70,25 @@ body{
     margin-bottom: 50px;
     border: 9px solid transparent;
     border-style: solid;
-    border-top-color:blue;
+    border-top-color:yellow;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    box-shadow: 5px 5px 15px rgb(0,0,0,0.5);
+    box-shadow: 5px 5px 15px  yellow;
+    width: 910px;
+}
+.NarutoShippuden{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border: 9px solid transparent;
+    border-style: solid;
+    border-top-color:orange;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: 5px 5px 15px orange;
     width: 910px;
 }
 .fa{
