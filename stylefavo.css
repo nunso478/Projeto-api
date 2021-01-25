@@ -1,0 +1,39 @@
+.cor-principal{
+    color:crimson;
+}
+h1{
+    font-weight: 900;
+    height: 36px;
+    margin: 0;
+    line-height: 0.8;
+}
+
+
+.carousel-caption{
+    color: black;
+    top:0;
+    padding: 60px 130px;
+    height: 210px;
+    
+}
+.container{
+    background-color: black;
+   padding: 10px;
+   box-shadow: 5px 5px 25px aqua;
+}
+.nav-item{
+    border-style: solid;
+    border-color: crimson;
+    margin-right: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;    
+    height: 50px;  
+    box-shadow: 5px 5px 15px rgb(0,0,0,0.5);
+     
+}
+body{
+    background-image: url("/imagem/bd.jpg");
+    margin: 0;
+}
