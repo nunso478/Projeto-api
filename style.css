@@ -60,8 +60,7 @@ h1{
    padding: 10px;
 }
 .tema{
-    border-style: solid;
-    border-color: coral;
+    
     height: 506px;
     width: 1000px;
     border-top-left-radius: 5px;
@@ -73,16 +72,19 @@ h1{
     
 }
 .nav-item{
-    border-style: solid;
-    border-color: crimson;
+    
     margin-right: 10px;
+    height: 50px;  
+     
+     
+}
+.nav-item:hover{
+    background-color: crimson;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    border-bottom-left-radius: 5px;    
-    height: 50px;  
-    box-shadow: 5px 5px 15px rgb(0,0,0,0.5);
-     
+    border-bottom-left-radius: 5px;  
+    box-shadow: 2px 2px 5px white;
 }
 .top{
     border-bottom-style: solid;
@@ -118,8 +120,7 @@ h1{
     grid-column-end: 3;
     margin-left: 50px;
     margin-bottom: 50px;
-    border-style: solid;
-    border-color: coral;
+   
   
 }
 .JUJUTSU{
@@ -129,8 +130,7 @@ h1{
     grid-column-end: 3;
     margin-left: 50px;
     margin-bottom: 50px;
-    border-style: solid;
-    border-color: coral;
+   
      
 }
 .Fairy{
@@ -140,8 +140,7 @@ h1{
     grid-column-end: 3;
     margin-left: 50px;
     margin-bottom: 50px;
-    border-style: solid;
-    border-color: coral;
+   
 }
 .Rising{
     grid-row-start: 6;
@@ -150,8 +149,7 @@ h1{
     grid-column-end: 3;
     margin-left: 50px;
     margin-bottom: 50px;
-    border-style: solid;
-    border-color: coral;
+    
 }
 body{
     background-image: url("/imagem/espaco.jpg");
