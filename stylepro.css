@@ -51,7 +51,7 @@ body{
     box-shadow: 5px 5px 25px aqua;
    background-color: whitesmoke;
 }
-.black{
+.Fairy{
     margin-top: 20px;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -60,8 +60,11 @@ body{
     margin-left: 50px;
     margin-bottom: 50px;
     border-style: solid;
-    border-color: coral;
-  
+    border-color: blue;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;  
 }
 .topicos{
     margin-top: 40px;
