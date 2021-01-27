@@ -29,12 +29,8 @@ h1{
    padding: 10px;
    box-shadow: 5px 5px 5px aqua;
 }
-.toi{
-
-    background-image: url("/imagem/grande.jpg");
-}
 body{
-    background-image: url("/imagem/shards.jpg");
+    background-image: url("/imagem/fundo.jpg");
     margin: 0;
 }
 footer  .col-lg-12{
