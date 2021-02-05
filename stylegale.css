@@ -85,3 +85,13 @@ footer  .col-lg-12{
     background-color: white;
 
 }
+@media only screen and (max-width: 800px){
+    .container{
+         
+        display: block;
+       
+    }
+     
+
+    
+}
