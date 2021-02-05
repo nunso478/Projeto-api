@@ -58,7 +58,13 @@ h1{
 .container{
     background-color: black;
     padding: 10px;
+     
    
+}
+ 
+.navbar-toggler{
+    background-color: white;
+
 }
 .tema{
     

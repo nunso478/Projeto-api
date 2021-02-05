@@ -29,6 +29,10 @@ h1{
   
      
 }
+.navbar-toggler{
+    background-color: white;
+
+}
 .nav-item:hover{
     background-color: crimson;
     border-top-left-radius: 5px;

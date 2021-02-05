@@ -40,6 +40,10 @@ body{
     background-image: url("/imagem/bd.jpg");
     margin: 0;
 }
+.navbar-toggler{
+    background-color: white;
+
+}
 .propri{
     display: grid;
     grid-template-rows: repeat(1,1fr);
