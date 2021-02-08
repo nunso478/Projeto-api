@@ -162,7 +162,7 @@ body{
     background-image: url("/imagem/bd.jpg");
 }
 @media only screen and (max-width: 800px){
-    .container1,.tema ,.mode, footer{
+    .container1{
          
         display: block;
        

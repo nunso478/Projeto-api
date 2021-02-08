@@ -54,7 +54,7 @@ body{
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     box-shadow: 5px 5px 15px blue;
-     width: 910px;
+   
 }
 .lovewar{
     
@@ -68,7 +68,7 @@ body{
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     box-shadow: 5px 5px 15px  red;
-    width: 910px;
+    
 }
 .ataque{
     
@@ -82,7 +82,7 @@ body{
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     box-shadow: 5px 5px 15px  yellow;
-    width: 910px;
+     
 }
 .NarutoShippuden{
     margin-left: 50px;
@@ -95,7 +95,7 @@ body{
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     box-shadow: 5px 5px 15px orange;
-    width: 910px;
+    
 }
 .fa{
     font-size: 50px;
@@ -133,9 +133,9 @@ footer  .col-lg-12{
        font:  arial;
 }
 @media only screen and (max-width: 800px){
-    .container{
+    .container,.Fairy,.NarutoShippuden,.ataque,.lovewar{
         display: block;
-       width: 100%;
+       
     }
      
 
